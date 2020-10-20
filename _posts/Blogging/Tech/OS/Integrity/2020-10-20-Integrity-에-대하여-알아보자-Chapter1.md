@@ -69,4 +69,4 @@ Vivante
 아래 그림은 르네상스사 R-Car H3와 Rightware-Kanzi조합의 소프트웨어 아키텍처를 보여 주고 있다.
 <br/><br/>
 
-![ex_screenshot](./img/ghs634_integrity_on_r-car_h3_cmyk_hres.jpg)
+![Desktop View]({{ "/assets/img/post/2020-10-19/ghs634_integrity_on_r-car_h3_cmyk_hres.jpg" | relative_url }})
